@@ -1,0 +1,30 @@
+NODE INTRODUCTION
+
+Node js is not a programming language 
+Node js is server side envirment
+Node js can connect with database 
+while the js cannot connect with database 
+Node js is free and open source 
+Node use chrome v8 engine  to execute the code 
+Node js is mostly used for API 
+But we can also make website on node js 
+we can connect the same api with the 
+mobile web and desktop 
+Node js run on the server 
+while the js run on the browser
+First Release in May , 2009 
+Current version 16.14.0
+%%%%%%%%%%%%%%%
+Server Side Language :
+Those languages which we can connect with the database
+ are called the server side language
+  %%%%%%%%%%%%%%
+
+Developer make API wth Node Js
+So we can connect client side with server Side 
+We can also make website in Node Js 
+
+
+<!-- NPM  -->
+is used to add external libraries in the node js
+
